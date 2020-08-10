@@ -3,7 +3,7 @@ package trylock_test
 import (
 	"fmt"
 
-	"github.com/LK4D4/trylock"
+	"github.com/wk30/trylock"
 )
 
 func Example() {
